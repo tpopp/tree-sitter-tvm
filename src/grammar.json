@@ -1,5 +1,5 @@
 {
-  "name": "tvm",
+  "name": "relay",
   "rules": {
     "source_file": {
       "type": "REPEAT",
