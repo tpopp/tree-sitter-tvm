@@ -84,7 +84,7 @@ const example = {
   }
 
 module.exports = grammar({
-  name : 'tvm',
+  name : 'relay',
   extras : $ => [/\s/, $.comment],
   rules : Object.assign(example)
 });

@@ -1,5 +1,5 @@
 {
-  "name": "tree-sitter-tvm",
+  "name": "tree-sitter-relay",
   "version": "1.0.0",
   "description": "",
   "main": "bindings/node",
